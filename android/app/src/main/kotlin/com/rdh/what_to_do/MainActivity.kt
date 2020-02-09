@@ -1,4 +1,4 @@
-package com.example.what_to_do
+package com.rdh.what_to_do
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
